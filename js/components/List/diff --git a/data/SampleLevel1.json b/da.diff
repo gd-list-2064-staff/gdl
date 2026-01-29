@@ -1,0 +1,30 @@
+diff --git a/data/SampleLevel1.json b/data/SampleLevel1.json
+--- data/SampleLevel1.json
++++ data/SampleLevel1.json
+@@ -1,17 +1,17 @@
+ {
+-    "id": 57436521,
+-    "name": "SampleLevel1",
+-    "author": "LevelUploader",
+-    "creators": ["Creator1", "Creator2", "Creator3"],
+-    "verifier": "Verifier",
+-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
++    "id": 79539185,
++    "name": "grief",
++    "author": "hosenGD",
++    "creators": ["HosenGD"],
++    "verifier": "Doggie",
++    "verification": "https://www.youtube.com/watch?v=TpFgFqhwblE",
+     "percentToQualify": 100,
+-    "password": "Not Copyable",
++    "password": "Not needed",
+     "records": [
+         {
+-            "user": "Sample_Victor_1",
+-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
++            "user": "Doggie",
++            "link": "https://www.youtube.com/watch?v=TpFgFqhwblE",
+             "percent": 100,
+             "hz": 240
+         }
+     ]
