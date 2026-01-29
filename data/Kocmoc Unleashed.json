@@ -9,16 +9,17 @@
     "password": "Not needed",
     "records": [
         {
-            "user": "Arshadow",
-            "link": "https://www.youtube.com/watch?v=mL0y4HWpPlU&list=RDmL0y4HWpPlU&start_radio=1",
-            "percent": 100,
-            "hz": 240
-        },
-        {
             "user": "Anakin20013",
             "link": "https://www.youtube.com/watch?v=mL0y4HWpPlU&list=RDmL0y4HWpPlU&start_radio=1",
             "percent": 100,
             "hz": 360
+        },
+        {
+
+            "user": "Arshadow",
+            "link": "https://www.youtube.com/watch?v=mL0y4HWpPlU&list=RDmL0y4HWpPlU&start_radio=1",
+            "percent": 100,
+            "hz": 240
     
         }
     ]
