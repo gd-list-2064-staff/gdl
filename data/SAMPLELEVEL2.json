@@ -1,12 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": [],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "id": 79539185,
+    "name": "grief",
+    "author": "CherryTeam",
+    "creators": ["HosenGD"],
+    "verifier": "Arshadow",
+    "verification": "https://www.youtube.com/watch?v=mL0y4HWpPlU&list=RDmL0y4HWpPlU&start_radio=1",
+    "percentToQualify": 100,
+    "password": "Not needed",
     "records": [
+        {
+            "user": "Arshadow",
+            "link": "https://www.youtube.com/watch?v=mL0y4HWpPlU&list=RDmL0y4HWpPlU&start_radio=1",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
