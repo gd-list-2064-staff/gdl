@@ -1,0 +1,26 @@
+{
+    "id": 109407246,
+    "name": "Exasperation",
+    "author": "Capyinabox",
+    "creators": ["Capyinabox"],
+    "verifier": "Anakin20013",
+    "verification": "https://youtu.be/cmJDf2faHJE?si=4aDoXzXcPO5pbE6E",
+    "percentToQualify": 100,
+    "password": "Not needed",
+    "records": [
+        {
+            "user": "Anakin20013",
+            "link": "https://youtu.be/cmJDf2faHJE?si=4aDoXzXcPO5pbE6E",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=fq4nGP8pRZM",
+            "percent": 100,
+            "hz": 240
+    
+        }
+    ]
+}
