@@ -1,0 +1,18 @@
+{
+    "id": 124833463,
+    "name": "Her Funeral",
+    "author": "NineDice",
+    "creators": ["NineDice"],
+    "verifier": "Doggie",
+    "verification": "https://youtu.be/ArRZJx9_5sU?si=wd3vkYRpjrWDphw9",
+    "percentToQualify": 100,
+    "password": "Not needed",
+    "records": [
+        {
+            "user": "Doggie",
+            "link": "https://youtu.be/ArRZJx9_5sU?si=wd3vkYRpjrWDphw9",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
