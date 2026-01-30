@@ -1,0 +1,26 @@
+{
+    "id": 111237270,
+    "name": "Silent Acropolis",
+    "author": "ThePurgatory115",
+    "creators": ["ThePurgatory115"],
+    "verifier": "Anakin20013",
+    "verification": "https://www.youtube.com/watch?v=BTu_GxlzY4o",
+    "percentToQualify": 100,
+    "password": "Not needed",
+    "records": [
+        {
+            "user": "Anakin20013",
+            "link": "https://www.youtube.com/watch?v=BTu_GxlzY4o",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+
+            "user": "Zoink",
+            "link": "https://youtu.be/2djt_p6OQsg?si=W5lWrzoS26LbeFtC",
+            "percent": 100,
+            "hz": 240
+    
+        }
+    ]
+}
