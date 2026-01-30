@@ -3,13 +3,14 @@
     "name": "ELEVATOR",
     "author": "YP0ffical",
     "creators": ["YP0ffical"],
-    "verifier": "Doggie",
+    "verifier": "Zoink",
     "verification": "https://www.youtube.com/watch?v=nCsKg3g4VQg",
     "percentToQualify": 100,
     "password": "Not needed",
+    "Length": "1m 47s",
     "records": [
         {
-            "user": "Doggie",
+            "user": "Zoink",
             "link": "https://www.youtube.com/watch?v=nCsKg3g4VQg",
             "percent": 100,
             "hz": 240
